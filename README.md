@@ -2,7 +2,10 @@
 
 ## Description
 
-This repo contains a webpage that was given to me to 'tidy up.' The page is for a company that specializes in search engine optimization. My goal was to make the website more accessible, refactor the CSS sheet, and change the HTML semantics to be more precise. I was given an HTML and CSS sheet, and used VSC to make any changes, as well as gitbash to push and commit. There is a screenshot within the repo that shows the final page. 
+This repo contains a webpage that was given to me to 'tidy up.' The page is for a company that specializes in search engine optimization. My goal was to make the website more accessible, refactor the CSS sheet, and change the HTML semantics to be more precise. I was given an HTML and CSS sheet, and used VSC to make any changes, as well as gitbash to push and commit. The follwoing screenshot shows the final page. 
+
+![screenshot](Assets\01-html-css-git-homework-demo.png)
+
 
 
 ## Installation
