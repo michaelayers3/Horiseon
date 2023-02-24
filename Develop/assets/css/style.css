@@ -160,18 +160,12 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.search-engine-optimization img {
+/* Consolidated multiple classes into one */
+.menu-item img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
+.menu-item h2
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
