@@ -6,7 +6,8 @@ This repo contains a webpage that was given to me to 'tidy up.' The page is for 
 
 ![screenshot](./Assets/01-html-css-git-homework-demo.png)
 
-
+Here is the link to the page:
+https://michaelayers3.github.io/Week1ChallengeAyers/
 
 ## Installation
 
